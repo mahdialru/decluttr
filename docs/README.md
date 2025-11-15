@@ -1,0 +1,2 @@
+# Decluttr
+Starter project structure.
